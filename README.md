@@ -88,5 +88,6 @@ Let’s connect!
 ---
 
 ## 🏷️ Tags  
-#PowerBI #DAX #HRAnalytics #EmployeeInsights #DataAnalytics #BusinessIntelligence #DashboardDesign #DataVisualization #BIProject  
+
+`#PowerBI` `#DAX` `#HRAnalytics` `#EmployeeInsights` `#DataAnalytics` `#DashboardDesign` `#BusinessIntelligence` `#InteractiveDashboard` `#DataVisualization` `#BIProject`
 
