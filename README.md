@@ -74,7 +74,7 @@ The dataset consists of anonymized employee presence data for a period of 3 mont
 
 ## 📈 Dashboard Screenshots
 
-
+![Dashboard Screenshot](Power_BI_Project.png)
 
 ---
 
